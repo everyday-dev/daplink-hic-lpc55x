@@ -56,11 +56,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "starved_thermal|125360000|75660000|9a2f6f41-86d1-4277-aca3-ab73628c4f3b|66ca01b3-51ff-4294-9b77-4492e98f6aec|F.Cu",
-        "starved_thermal|126340000|74240000|9a2f6f41-86d1-4277-aca3-ab73628c4f3b|2bf3f24b-fd30-41a7-a274-9b519491916b|F.Cu",
-        "starved_thermal|130740000|68430000|9a2f6f41-86d1-4277-aca3-ab73628c4f3b|e77c17df-b20e-4e7d-b937-f281c75a0014|F.Cu"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -121,7 +117,7 @@
         "min_clearance": 0.1016,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.0,
-        "min_hole_clearance": 0.0,
+        "min_hole_clearance": 0.11,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
