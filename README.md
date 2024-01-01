@@ -1,7 +1,2 @@
-# DAPLink HIC LPC55x
-[![CC by SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-![3d photo of the daplink hic module](img/daplink_hic_1.png)
-
-## Introduction
-This board is an HIC carrier module intended to be used with the DAPLink HDK board for DAPLink firmware development.
+# We've moved. 
+In an effort to truly own and be in full control of our clients and personal information, source code, and documentation we've moved to a self-hosted Git server. You can find this project here: [git.everydaydev.io](https://git.everydaydev.io/opensource/daplink-hic-lpc55x)
